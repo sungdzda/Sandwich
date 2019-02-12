@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Version.svg"/>&nbsp;&nbsp;<img src="Stars.svg"/>&nbsp;&nbsp;<img src="Maintainability.svg"/>
+  <img src="Version.svg"/>&nbsp;&nbsp;<img src="Stars.svg"/>&nbsp;&nbsp;<img src="Uptime.svg"/>&nbsp;&nbsp;<img src="Maintainability.svg"/>
 </p>
 
 ![](Sandwich.jpg)
